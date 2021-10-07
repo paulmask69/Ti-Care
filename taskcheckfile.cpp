@@ -33,8 +33,8 @@ TaskCheckFile::TaskCheckFile()
 * @brief Implementa il metodo astratto che controlla la validita' di uno specifico parametro
 *        Qui e' possibile definire il controllo sulla validita' del percorso file inserito e sull'eventuale esistenza del file.
 *
-* @param[in] name : nome del task
-* @param[in] value: puntatore all'oggetto task
+* @param[in] name : nome del parametro
+* @param[in] value : valore del parametro
 *
 * @return: true se il parametro risulta valido, false se il parametro non risulta valido
 */
